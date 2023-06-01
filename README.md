@@ -21,3 +21,4 @@ To run the application locally
 2. cmd `yarn`
 3. cmd `yarn android`
 4. create APK with cmd `yarn release:android`
+5. APK can be found in `root/apk/app-release.apk`
