@@ -1,6 +1,6 @@
-# Codling Change
+# Codling Challenge
 
-Codling Change
+Codling Challenge
 
 <img src="appImage/app_image.png" height="550"/>
 
